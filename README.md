@@ -1,10 +1,10 @@
 # SesameAILabs-csm
 
-A conversational speech model (CSM) implementation by Sesame AI Labs that enables text-to-speech generation with context awareness.
+A conversational speech model (CSM) implementation by Sesame AI Labs that enables text-to-speech generation with context awareness and consistent audio quality.
 
 ## Description
 
-SesameAILabs-csm is a powerful text-to-speech model that can generate natural-sounding speech with context awareness. It supports multiple speakers and can maintain conversational context across multiple turns.
+SesameAILabs-csm is a powerful text-to-speech model that can generate natural-sounding speech with context awareness. It supports multiple speakers and maintains consistent audio quality across conversations. The model is fine-tuned to ensure that the audio remains consistent, even in long conversations.
 
 ## Features
 
@@ -12,6 +12,7 @@ SesameAILabs-csm is a powerful text-to-speech model that can generate natural-so
 - Multi-speaker support
 - Natural-sounding speech output
 - Contextual conversation handling
+- Consistent audio quality across conversations
 - Support for custom audio input
 - GPU acceleration support
 
